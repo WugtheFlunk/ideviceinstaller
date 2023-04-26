@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ideviceinstaller
 
 *A command-line application to manage apps and app archives on iOS devices.*
@@ -125,3 +126,6 @@ ideviceinstaller is an independent software application and has not been
 authorized, sponsored or otherwise approved by Apple Inc.
 
 README Updated on: 2022-04-04
+=======
+# ideviceinstaller
+>>>>>>> 0ef1cd760e236508a0e41e833ec5877ca4ba631a
